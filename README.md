@@ -27,17 +27,16 @@
 
 ## 📌 Featured Projects
 
-### 🔷 Urban Echo – Hack4Bengal 2025 Finalist  
+### 🔷 LifeLink – Blood Donation & Request Platform @ Hack4bengal 4.0
+Cross-platform solution for emergency blood needs. Features include real-time blood availability from nearby hospitals 
+and blood banks, donation requests, and a seamless web + Android experience.
+
+### 🔷 Urban Echo – Hack4Bengal 4.0 Online Finalist  
 Civic issue reporting platform with real-time upvoting system 
 
 ### 🔷 ARGUS – AI-Powered Attendance System  
 Classroom attendance system using live face detection  
 
-
-### 🔷 LifeLink – Blood Donation & Request Platform
-Finalist @ Hack4Bengal 4.0 (2025)  
-Cross-platform solution for emergency blood needs. Features include real-time blood availability from nearby hospitals 
-and blood banks, donation requests, and a seamless web + Android experience.
 
 ---
 

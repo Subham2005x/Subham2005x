@@ -33,6 +33,12 @@ Civic issue reporting platform with real-time upvoting system
 ### 🔷 ARGUS – AI-Powered Attendance System  
 Classroom attendance system using live face detection  
 
+
+🔷 **LifeLink – Blood Donation & Request Platform**  
+Finalist @ Hack4Bengal 4.0 (2025)  
+Cross-platform solution for emergency blood needs. Features include real-time blood availability from nearby hospitals 
+and blood banks, donation requests, and a seamless web + Android experience.
+
 ---
 
 ## 📫 Let's Connect

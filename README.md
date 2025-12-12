@@ -30,7 +30,7 @@
 
 🌟 **Open Source** Contributor
 
-<br/>
+
 
 ```dart
 class Developer {
@@ -188,9 +188,9 @@ EdTech platform with blockchain token rewards for course completion and skill de
 
 ## 📊 Analytics
 
-<img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham2005x&theme=tokyonight&hide_border=true" />
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham2005x&theme=tokyonight&hide_border=true" />
 
-<img src="https://leetcard.jacoblin.cool/subham2005x?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="49%"/>
+<img src="https://leetcard.jacoblin.cool/subham2005x?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="47%"/>
 
 ### 📊 Contribution Graph
 

@@ -32,32 +32,7 @@
 
 
 
-```dart
-class Developer {
-  final String name = "Subham Nabik";
-  final List<String> roles = [
-    "App Developer (Primary Focus)",
-    "Web Developer",
-    "Backend Developer"
-  ];
-  
-  final String coreMembership = "Core App Dev Team @ GDG TMSL";
-  
-  final Map<String, List<String>> currentFocus = {
-    "🚀 Learning": ["New Technologies & Frameworks"],
-    "🤖 ML Projects": ["Machine Learning & AI Integration"],
-    "🌟 Open Source": ["Contributing to Community Projects"],
-    "🏆 Hackathons": ["Building & Competing in Tech Events"],
-  };
-  
-  final List<String> passions = [
-    "Building mobile & web applications",
-    "App development",
-    "Backend & API development",
-    "Solving real-world problems with tech"
-  ];
-}
-```
+
 
 <br clear="right"/>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Subham%20Nabik&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=App+Developer+%7C+Web+Developer;Flutter+%7C+Spring+Boot+%7C+React;Native+Android+%7C+Kotlin;ML+Enthusiast+%7C+Building+Smart+Apps;Hackathon+Finalist+%7C+Open+Source;Core+App+Dev+@+GDG+TMSL" alt="Typing SVG" />
 
@@ -12,8 +12,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Subham2005x&color=00D9FF&style=flat)](https://github.com/Subham2005x)
 
 </div>
-
----
 
 ## 💫 About Me
 
@@ -38,8 +36,6 @@
 
 > *"Code what you care about. Build what matters."*
 
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -89,7 +85,6 @@
 
 <br/>
 
----
 
 <div align="center">
 
@@ -155,7 +150,6 @@ EdTech platform with blockchain token rewards for course completion and skill de
 
 </div>
 
----
 
 <div align="center">
 
@@ -180,7 +174,6 @@ EdTech platform with blockchain token rewards for course completion and skill de
 
 </div>
 
----
 
 <div align="center">
 
@@ -203,7 +196,6 @@ EdTech platform with blockchain token rewards for course completion and skill de
 
 <br/>
 
----
 
 <div align="center">
 

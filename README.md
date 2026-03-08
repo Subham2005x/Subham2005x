@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=App+Developer+%7C+Web+Developer;Flutter+%7C+Spring+Boot+%7C+React;Native+Android+%7C+Kotlin;ML+Enthusiast+%7C+Building+Smart+Apps;Hackathon+Finalist+%7C+Open+Source;Core+App+Dev+@+GDG+TMSL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;Native+Android+%7C+Cross+Platform+Developer;ML+Enthusiast+%7C+Building+Smart+Apps;Hackathon+Finalist+%7C+Open+Source;Core+App+Dev+@+GDG+TMSL" alt="Typing SVG" />
 
 <br/>
 
@@ -16,24 +16,37 @@
 
 ## 💫 About Me
 
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-🎓 **B.Tech CSE(AIML)**'28 @ Techno Main Saltlake  
+<table align="left" border="0" cellpadding="12">
+  <tr>
+    <td align="center">🎓</td>
+    <td><strong>B.Tech CSE (AIML) '28</strong> &nbsp;·&nbsp; Techno Main Saltlake</td>
+  </tr>
+  <tr>
+    <td align="center">💼</td>
+    <td><strong>Core App Dev Team</strong> &nbsp;·&nbsp; GDG TMSL</td>
+  </tr>
+  <tr>
+    <td align="center">🤝</td>
+    <td><strong>Dev Team Member</strong> &nbsp;·&nbsp; Samarth Tech</td>
+  </tr>
+  <tr>
+    <td align="center">🏆</td>
+    <td><strong>Hack4Bengal</strong> &nbsp;·&nbsp; Qualifier</td>
+  </tr>
+  <tr>
+    <td align="center">🌟</td>
+    <td><strong>Open Source</strong> Contributor</td>
+  </tr>
+  <tr>
+    <td align="center">🧑‍🏫</td>
+    <td><strong>Mentor</strong> &nbsp;·&nbsp; Apertre 3.0</td>
+  </tr>
+</table>
 
-💼 **Core App Dev Team** @ GDG TMSL  
 
-🤝 **Dev Team Member** @ Samarth Tech
-
-🏆 **Hack4Bengal** Qualifiers
-
-🌟 **Open Source** Contributor
-
-
-
-
-
-<br clear="right"/>
+<br clear="left"/>
 
 > *"Code what you care about. Build what matters."*
 
@@ -84,6 +97,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
 <img width="12" />
 <img src="https://img.icons8.com/color/48/000000/chain--v1.png" height="40" alt="LangChain" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n" />
 
 ### 💾 Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
